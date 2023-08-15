@@ -1,0 +1,15 @@
+	(1)	(2)	(3)
+	s1	s2	s3
+VARIABLES	perform	satis	perform
+			
+support	0.822***	0.229***	0.616***
+	(0.0405)	(0.0305)	(0.0303)
+satis			0.898***
+			(0.0252)
+Constant	4.998***	0.0193	4.981***
+	(0.0205)	(0.0154)	(0.0151)
+			
+Observations	1,500	1,500	1,500
+R-squared	0.216	0.036	0.576
+Standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			
